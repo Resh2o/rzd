@@ -1,0 +1,49 @@
+.center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%
+}
+body{
+  background-image: url(ddro.jpg);
+  background-size: 450px
+}
+h1{
+  color: whitesmoke;
+  font-size: 300%;
+  text-align: center;
+  font-family: Times New Roman, Roman, Serif;
+ background-image: url(maxresdefault.jpg);
+  background-size: 400px;
+  border-radius: 10px;
+  text-shadow: 1px 5px 15px rgba(179, 147, 211, 0.8),
+  2px 7px 19px rgba(178, 147, 211, 0.7),
+  3px 9px 14px rgba(177, 147, 211, 0.6),
+  4px 11px 17px rgba(176, 147, 211, 0.9); /тени/
+}
+h2{
+  color: black;
+  font-size: 170%;
+  text-align: center;
+  font-family: Times New Roman, Roman, Serif;
+  background-color: whitesmoke; 
+  padding: 10px; 
+  border-radius: 10px;
+}
+p{
+  color: black;
+  text-align: left;
+  font-family: Times New Roman, Roman, Serif;
+  background-color: whitesmoke;
+  border-radius: 10px
+}
+.wtext{
+  color: aliceblue
+}
+.dbotton{
+  width: 200px;
+  border-radius: 10px;
+  height: 50px;
+  background-image: url(download.jpg);
+  background-size: 160px
+}
